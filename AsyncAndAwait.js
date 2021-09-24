@@ -8,7 +8,6 @@ function fun1(value ,error){
     
 }
 
-
 async function result(){
     let result1 = await fun1(10,false);
     return result1;
